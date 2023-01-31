@@ -1,0 +1,5 @@
+// kurang crud pegawai 
+// 	multiuser 
+validasi stok
+ajax transaksi
+cari barang di transaksi
